@@ -3,7 +3,7 @@ A job portal app to find details about various part time jobs available.
 
 # Screenshots
 
-![1](https://user-images.githubusercontent.com/78342322/125240612-f505b400-e307-11eb-8957-8843733bb1ae.jpg)
+![1](https://user-images.githubusercontent.com/78342322/125240612-f505b400-e307-11eb-8957-8843733bb1ae.jpg = = 250x250)
 
 ![2](https://user-images.githubusercontent.com/78342322/125240639-fafb9500-e307-11eb-9142-d82acab2d979.jpg)
 
